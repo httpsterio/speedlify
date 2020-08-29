@@ -11,7 +11,11 @@
 		</script>
 	</head>
 	<body>
+		<h1 class="speedlify-hed"><a href="/">speedlify</a>{% if vertical %}:{{ vertical }}{% endif %}</h1>
 		{{ content | safe }}
+
+		<footer>
+		</footer>
 
 		<script defer src="/chartist.js"></script>
 		<script defer src="/script.js"></script>
