@@ -13,6 +13,9 @@ module.exports = {
 	},
 	urls: [
 		"https://httpster.io/",
-		"https://httpster.io/about/"
+		"https://httpster.io/about/",
+		"https://bram.is/",
+		"https://gerencialeite.com.br/,
+		"https://www.marcfilleul.fr/"
 	]
 };
